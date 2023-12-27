@@ -1,4 +1,5 @@
 #!/bin/sh
+# https://github.com/wensheng/cuda-version-switcher
 
 # Function to update CUDA version in PATH
 update_cuda_version() {
